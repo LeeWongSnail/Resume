@@ -82,27 +82,27 @@
         }
     ],
     "sections": [
-        {
-            "title": "开发小工具",
-            "fragments": [
-                {
-                    "name": "打包工具",
-                    "comment": "",
-                    "startDate": "",
-                    "endDate": "",
-                    "summary": "企业证书打包,上传至官网或者蒲公英",
-                    "details": []
-                },
-                {
-                    "name": "图片检测工具",
-                    "comment": "",
-                    "startDate": "",
-                    "endDate": "",
-                    "summary": "适配iPad,根据2x图补全1x图",
-                    "details": []
-                }
-            ]
-        },
+        // {
+        //     "title": "开发小工具",
+        //     "fragments": [
+        //         {
+        //             "name": "打包工具",
+        //             "comment": "",
+        //             "startDate": "",
+        //             "endDate": "",
+        //             "summary": "企业证书打包,上传至官网或者蒲公英",
+        //             "details": []
+        //         },
+        //         {
+        //             "name": "图片检测工具",
+        //             "comment": "",
+        //             "startDate": "",
+        //             "endDate": "",
+        //             "summary": "适配iPad,根据2x图补全1x图",
+        //             "details": []
+        //         }
+        //     ]
+        // },
         {
             "title": "开源框架",
             "fragments": [
@@ -131,7 +131,6 @@
                 }
             ]
         },
-
         {
             "title": "英语能力",
             "points": [
