@@ -1,12 +1,13 @@
 {
     "name": "王立",
     "birth": "12.17",
-    "tel": "13269121214",
     "email": "wangli_0632@163.com",
     "blog": "http://leewong.cn/",
     "avatar": "image/avatar.jpg",
     "pages": [
 			{"zhihu":"https://www.zhihu.com/people/leewong-35"},
+	    		{"segmentfault":"https://segmentfault.com/u/leewong"},
+	    		{"weibo":"https://weibo.com/2005122555/profile?topnav=1&wvr=6&is_all=1"},
 			{"stackoverflow":"https://stackoverflow.com/users/8689783/lee-won"},
 			{"github":"https://github.com/LeeWongSnail"}
     ],
