@@ -103,34 +103,34 @@
         //         }
         //     ]
         // },
-        {
-            "title": "开源框架",
-            "fragments": [
-                {
-                    "name": "ALiVideoRecorder",
-                    "comment": "封装的视频录制Service",
-                    "startDate": "2016.03",
-                    "endDate": "2016.04",
-                    "summary": "",
-                    "details": [
-                        "相较于系统的录制UIImagePickerController,采用了更底层的AVFoundation。",
-                        "增加录制参数的设置以及输出格式的设置,无需转码",
-                        "支持强制横屏和横竖屏方向录制"
-                    ]
-                },
-                {
-                    "name": "ALiProgressHUD",
-                    "comment": "不止是View可以弹窗",
-                    "startDate": "2015.08",
-                    "endDate": "2015.09",
-                    "summary": "弹窗的封装",
-                    "details": [
-                        "项目中因为一些UI的弹窗,要将事件传递给ViewController进行弹窗过程比较繁琐,利用这个框架可以在任何对象中书写弹窗",
-                        "包括AlertView(基于UIAlertController)弹窗,避免使用代理模式,造成逻辑的分离,提高代码可读性"
-                    ]
-                }
-            ]
-        },
+        // {
+        //     "title": "开源框架",
+        //     "fragments": [
+        //         {
+        //             "name": "ALiVideoRecorder",
+        //             "comment": "封装的视频录制Service",
+        //             "startDate": "2016.03",
+        //             "endDate": "2016.04",
+        //             "summary": "",
+        //             "details": [
+        //                 "相较于系统的录制UIImagePickerController,采用了更底层的AVFoundation。",
+        //                 "增加录制参数的设置以及输出格式的设置,无需转码",
+        //                 "支持强制横屏和横竖屏方向录制"
+        //             ]
+        //         },
+        //         {
+        //             "name": "ALiProgressHUD",
+        //             "comment": "不止是View可以弹窗",
+        //             "startDate": "2015.08",
+        //             "endDate": "2015.09",
+        //             "summary": "弹窗的封装",
+        //             "details": [
+        //                 "项目中因为一些UI的弹窗,要将事件传递给ViewController进行弹窗过程比较繁琐,利用这个框架可以在任何对象中书写弹窗",
+        //                 "包括AlertView(基于UIAlertController)弹窗,避免使用代理模式,造成逻辑的分离,提高代码可读性"
+        //             ]
+        //         }
+        //     ]
+        // },
         {
             "title": "英语能力",
             "points": [
