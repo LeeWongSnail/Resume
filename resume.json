@@ -75,9 +75,10 @@
             "details": [
                 "对用户模块实现了封装,所有跟用户相关的内容都可以通过用户的Service获取。",
                 "配合MVVM设计模式，引入了RAC,使整个项目的结构层次更加清晰。",
-                "自己研究并运用了对于一些样式相对固定但是顺序经常改变或者根据登录者身份在变的模块结构搭建,在小组内推广使用。"
-                "利用MVVM设计模式简化VC的逻辑,实现了相似界面的最大程度复用(一个控制器VC对应4个界面)。"
+                "自己研究并运用了对于一些样式相对固定但是顺序经常改变或者根据登录者身份在变的模块结构搭建,在小组内推广使用"
+                "利用MVVM设计模式简化VC的逻辑,实现了相似界面的最大程度复用(一个控制器VC对应4个界面)"
                 "相较于以往使用的单一Cell添加View的模式,使用了Cell单元化,每个Cell功能单一,但是又可以极大的复用,防止重复造轮子。"
+
             ]
         }
     ],
@@ -104,30 +105,25 @@
             ]
         },
         {
-            "title": "开源框架",
+            "title": "培训经历",
             "fragments": [
                 {
-                    "name": "ALiVideoRecorder",
-                    "comment": "封装的视频录制Service",
-                    "startDate": "2016.03",
-                    "endDate": "2016.04",
+                    "name": "甲骨文人才发展中心",
+                    "comment": "2013校招培训项目",
+                    "startDate": "2013.09",
+                    "endDate": "2013.12",
                     "summary": "",
                     "details": [
-                        "相较于系统的录制UIImagePickerController,采用了更底层的AVFoundation。",
-                        "增加录制参数的设置以及输出格式的设置,无需转码",
-                        "支持强制横屏和横竖屏方向录制"
+                        "校招深圳研发中心B组组长，第一届甲骨文编程马拉松中获带领小组获项目“创新奖”，本人获“优秀小组长"
                     ]
                 },
                 {
-                    "name": "ALiProgressHUD",
-                    "comment": "不止是View可以弹窗",
-                    "startDate": "2015.08",
-                    "endDate": "2015.09",
-                    "summary": "弹窗的封装",
-                    "details": [
-                        "项目中因为一些UI的弹窗,要将事件传递给ViewController进行弹窗过程比较繁琐,利用这个框架可以在任何对象中书写弹窗",
-                        "包括AlertView(基于UIAlertController)弹窗,避免使用代理模式,造成逻辑的分离,提高代码"
-                    ]
+                    "name": "甲骨文大学",
+                    "comment": "技术培训",
+                    "startDate": "2013.7",
+                    "endDate": "2013.9",
+                    "summary": "参与甲骨文大学(对外)Java7 、SQL、PL/SQL、Oracle Application Framework（OAF）等7门技术培训课程。",
+                    "details": []
                 }
             ]
         },
