@@ -86,43 +86,48 @@
             "title": "开发小工具",
             "fragments": [
                 {
-                    "name": "微信公众号测试客户端",
+                    "name": "打包工具",
                     "comment": "",
                     "startDate": "",
                     "endDate": "",
-                    "summary": "完成发送HTTP测试数据并解析响应数据的功能测试Swing客户端，大大提高复杂逻辑的公众号功能测试效率。",
+                    "summary": "企业证书打包,上传至官网或者蒲公英",
                     "details": []
                 },
                 {
-                    "name": "火狐搜索插件",
+                    "name": "图片检测工具",
                     "comment": "",
                     "startDate": "",
                     "endDate": "",
-                    "summary": "独立编写快速搜索小插件，使用Spring MVC+HttpClient完成搜索推荐（如热门微博）的数据格式适配。",
+                    "summary": "适配iPad,根据2x图补全1x图",
                     "details": []
                 }
             ]
         },
         {
-            "title": "培训经历",
+            "title": "开源框架",
             "fragments": [
                 {
-                    "name": "甲骨文人才发展中心",
-                    "comment": "2013校招培训项目",
-                    "startDate": "2013.09",
-                    "endDate": "2013.12",
+                    "name": "ALiVideoRecorder",
+                    "comment": "封装的视频录制Service",
+                    "startDate": "2016.03",
+                    "endDate": "2016.04",
                     "summary": "",
                     "details": [
-                        "校招深圳研发中心B组组长，第一届甲骨文编程马拉松中获带领小组获项目“创新奖”，本人获“优秀小组长"
+                        "相较于系统的录制UIImagePickerController,采用了更底层的AVFoundation。",
+                        "增加录制参数的设置以及输出格式的设置,无需转码",
+                        "支持强制横屏和横竖屏方向录制"
                     ]
                 },
                 {
-                    "name": "甲骨文大学",
-                    "comment": "技术培训",
-                    "startDate": "2013.7",
-                    "endDate": "2013.9",
-                    "summary": "参与甲骨文大学(对外)Java7 、SQL、PL/SQL、Oracle Application Framework（OAF）等7门技术培训课程。",
-                    "details": []
+                    "name": "ALiProgressHUD",
+                    "comment": "不止是View可以弹窗",
+                    "startDate": "2015.08",
+                    "endDate": "2015.09",
+                    "summary": "弹窗的封装",
+                    "details": [
+                        "项目中因为一些UI的弹窗,要将事件传递给ViewController进行弹窗过程比较繁琐,利用这个框架可以在任何对象中书写弹窗",
+                        "包括AlertView(基于UIAlertController)弹窗,避免使用代理模式,造成逻辑的分离,提高代码可读性"
+                    ]
                 }
             ]
         },
