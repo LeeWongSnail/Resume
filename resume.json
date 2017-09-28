@@ -86,19 +86,21 @@
             "title": "开发小工具",
             "fragments": [
                 {
-                    "name": "微信公众号测试客户端",
+                    "name": "打包工具",
                     "comment": "",
                     "startDate": "",
                     "endDate": "",
-                    "summary": "完成发送HTTP测试数据并解析响应数据的功能测试Swing客户端，大大提高复杂逻辑的公众号功能测试效率。",
-                    "details": []
+                    "summary": "企业证书打包,上传至官网或者蒲公英",
+                    "details": [
+
+                    ]
                 },
                 {
-                    "name": "火狐搜索插件",
+                    "name": "图片检测工具",
                     "comment": "",
                     "startDate": "",
                     "endDate": "",
-                    "summary": "独立编写快速搜索小插件，使用Spring MVC+HttpClient完成搜索推荐（如热门微博）的数据格式适配。",
+                    "summary": "适配iPad,根据2x图补全1x图",
                     "details": []
                 }
             ]
