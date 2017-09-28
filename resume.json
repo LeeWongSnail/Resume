@@ -5,7 +5,11 @@
     "email": "wangli_0632@163.com",
     "blog": "http://leewong.cn/",
     "avatar": "image/avatar.jpg",
-    "pages": [],
+    "pages": [
+			{"zhihu":"https://www.zhihu.com/people/leewong-35"},
+			{"stackoverflow":"https://stackoverflow.com/users/8689783/lee-won"},
+			{"github":"https://github.com/LeeWongSnail"}
+    ],
     "summaries": [
         "熟练Objective-C、掌握iOS开发；用过Swift、JavaScript、PHP等其他编程语言。",
         "掌握MVC、MVVM、单例、观察者等设计模式!；熟悉Reactive Cocoa,掌握AFNetworking、SDWebImage等iOS框架。",
