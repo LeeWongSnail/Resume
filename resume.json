@@ -15,6 +15,7 @@
         "熟练Objective-C、掌握iOS开发；用过Swift、JavaScript、PHP等其他编程语言。",
         "掌握MVC、MVVM、单例、观察者等设计模式!；熟悉Reactive Cocoa,掌握AFNetworking、SDWebImage等iOS框架。",
         "熟悉并能应用面向对象设计原则、掌握多种设计模式，熟悉iOS多线程、运行时、运行循环以及内存管理机制。",
+	"熟练使用Instruments进行内存泄漏、内存分配、耗时检查",
         "突出的学习能力和学习热情；擅用文档、StackOverflow学习技术。"
     ],
     "workExperiences": [
@@ -100,11 +101,11 @@
                     "details": []
                 },
                 {
-                    "name": "图片检测工具",
+                    "name": "网速、内存、FPS实时检测工具",
                     "comment": "",
                     "startDate": "",
                     "endDate": "",
-                    "summary": "适配iPad,根据2x图补全1x图",
+                    "summary": "在App开发的时候就可以发现模块中存在的内存和卡顿的问题",
                     "details": []
                 }
             ]
